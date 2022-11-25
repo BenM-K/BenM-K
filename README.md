@@ -4,6 +4,7 @@
 
 - 🔎 Reverse engineering 
 - 🔠 Assembly language C, C++
+- 🔧 Driver Software
 - 🛡️ Cybersecurity  
 - 🕷️ Binary exploitation  
 - 💾 Memory management  
