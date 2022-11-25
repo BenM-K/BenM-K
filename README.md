@@ -6,7 +6,7 @@
 - 🔠 Assembly language C, C++
 - 🔧 Driver Software
 - 🛡️ Cybersecurity  
-- 🕷️ Binary exploitation  
+- 🕷️ Binary exploitation prevention  
 - 💾 Memory management  
 - 🔨 CPU Architecture  
 - ⚙️ Operating system architecture
