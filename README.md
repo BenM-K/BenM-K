@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<p align="center"><b>Benjamin Morelli-Kirshner - Software Developer</b></p>
+<p align="center"><b>Benjamin Morelli-Kirshner - Computer Engineering Student</b></p>
 <p><b>❤️ I'm passionate about...</b></p>
 
 - 🔎 Reverse engineering 
