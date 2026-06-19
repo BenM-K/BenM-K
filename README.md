@@ -17,7 +17,7 @@
 
 🤝 Always looking to collaborate on projects!
 
-<b>Contact me:</b> <a href="mailto:benmkcs@gmail.com"><b>Email</b></a>   |   <a href="https://www.linkedin.com/in/benm-k/"><b>LinkedIn</b></a>
+<b>Contact me:</b> <a href="mailto:hello@benm-k.com"><b>Email</b></a>   |   <a href="https://www.linkedin.com/in/benm-k/"><b>LinkedIn</b></a>
 
 <p align="center">
   <b>Languages & Tools:</b>
