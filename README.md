@@ -1,21 +1,21 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there!</h1>
 
 <p align="center">
   <b>Benjamin Morelli-Kirshner - Computer Engineering Student @ Concordia University</b>
 </p>
 
-<p><b>❤️ I'm passionate about...</b></p>
+<p><b>I'm passionate about...</b></p>
 
-- 🔎 Reverse engineering
-- 🔠 Assembly language, C, C++
-- 🔧 Driver software
-- 🛡️ Cybersecurity
-- 🕷️ Binary exploitation prevention
-- 💾 Memory management
-- 🔨 CPU architecture
-- ⚙️ Operating system architecture
+- Reverse engineering
+- Assembly language, C, C++
+- Driver software
+- Cybersecurity
+- Binary exploitation prevention
+- Memory management
+- CPU architecture
+- Operating system architecture
 
-🤝 Always looking to collaborate on projects!
+Always looking to collaborate on projects!
 
 <b>Contact me:</b> <a href="mailto:hello@benm-k.com"><b>Email</b></a>   |   <a href="https://www.linkedin.com/in/benm-k/"><b>LinkedIn</b></a>
 
