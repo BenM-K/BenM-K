@@ -10,7 +10,7 @@
 - Assembly language, C, C++
 - Driver software
 - Cybersecurity
-- Binary exploitation prevention
+- Exploitation prevention
 - Memory management
 - CPU architecture
 - Operating system architecture
