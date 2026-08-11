@@ -19,16 +19,14 @@
 
 ## Selected Experience
 
-### GDITStack — Internal IT Operations Platform
+### GD IT Hub — Internal IT Operations Platform
 
-Developed a private, multi-service platform for managing employee lifecycle workflows, IT inventory, support tickets, and device administration.
+Developed a private, multi-service platform for employee lifecycle workflows, IT inventory, support tickets, and device administration.
 
-- Built backend services using Python, Flask, FastAPI, Node.js, and Express
+- Built backend services with Python, Flask, FastAPI, Node.js, Express, and SQLite
 - Integrated BambooHR, Addigy, Google Workspace, Google Chat, and Figma through authenticated APIs and webhooks
-- Designed data-normalization and synchronization pipelines for employee, inventory, and device records
-- Implemented Google OAuth, user allowlisting, bearer-token authentication, attachment validation, and service-specific access controls
-- Developed SQLite schemas, migrations, automated tests, health checks, and API contract tests
-- Containerized services with Docker Compose and documented deployment, backup, rollback, and operational handover procedures
+- Implemented data synchronization, OAuth, access controls, schema migrations, and automated testing
+- Containerized the services with Docker Compose and documented deployment, backup, rollback, and operational handover procedures
 
 `Python` `Flask` `FastAPI` `Node.js` `Express` `SQLite` `REST APIs` `OAuth 2.0` `Docker`
 
