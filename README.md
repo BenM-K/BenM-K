@@ -1,26 +1,32 @@
 <h1 align="center">Hey!</h1>
 
 <p align="center">
-  <b>Benjamin Morelli-Kirshner - Computer Engineering Student @ Concordia University</b>
+  <b>Benjamin Morelli-Kirshner — Computer Engineering Student @ Concordia University</b>
 </p>
 
-<p><b>I'm passionate about...</b></p>
+I'm primarily interested in low-level software, computer systems, and understanding how hardware and software interact.
 
-- Reverse engineering
-- Assembly language, C, C++
-- Driver software
-- Cybersecurity
-- Exploitation prevention
-- Memory management
-- CPU architecture
-- Operating system architecture
+<b>Areas I'm interested in:</b>
 
-Always looking to collaborate on projects!
+* Low-level and systems programming
+* Reverse engineering
+* C, C++, and assembly
+* Device drivers and hardware interfaces
+* Digital signal processing
+* Operating system internals
+* Memory management
+* CPU and computer architecture
+* Cybersecurity and vulnerability research
+* Exploit mitigation and software security
 
-<b>Contact me:</b> <a href="mailto:hello@benm-k.com"><b>Email</b></a>   |   <a href="https://www.linkedin.com/in/benm-k/"><b>LinkedIn</b></a>
+I'm especially interested in projects involving systems, hardware, audio/DSP, reverse engineering, or security.
+
+Always looking to learn, build, and collaborate on interesting projects.
+
+<b>Contact me:</b> <a href="mailto:hello@benm-k.com"><b>Email</b></a>   |   <a href="https://www.linkedin.com/in/benm-k/"><b>LinkedIn</b></a>
 
 <p align="center">
-  <b>Languages & Tools:</b>
+  <b>Languages & Tools</b>
 </p>
 
 <p align="center">
